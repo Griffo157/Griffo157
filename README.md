@@ -1,0 +1,1 @@
+Hi everyone, my name is Matheus Griffo, and im currently studying Computer Science, aiming to be a pentester in the future. Here i will share some of the codes that im developing in high school, and talk about stuff that im working on.
